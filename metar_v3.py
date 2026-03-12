@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 # TELEGRAM CONFIG
 # =============================
 
-TOKEN = "8497995800:AAGSIn-wdh_ho4nxuPORHWLkkCHC87_zcuo"
+TOKEN = "8705089258:AAHIeqsrgQhv1-rzHr9zamgvTYsSXW0BgoA"
 CHAT_ID = "8554750866"
 
 def send_telegram(msg):
